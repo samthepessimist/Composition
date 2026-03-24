@@ -12,5 +12,6 @@ public class Main {
         e1.employeeDetails();
         e2.employeeDetails();
         System.out.println("first print");
+        System.out.println("second print");
     }
 }
