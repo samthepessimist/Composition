@@ -14,6 +14,8 @@ public class Main {
         System.out.println("first print");
         System.out.println("second print");
         System.out.println("third print");
+        System.out.println("fourth print");
         System.out.println("Heyyy for the fun of it");
+
     }
 }
